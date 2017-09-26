@@ -1,0 +1,32 @@
+{
+  "name": "packege.json",
+  "version": "1.1.0",
+  "description": "write you notices and secure it by using our site",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ammarRBK/rbk3-mvp.git"
+  },
+  "keywords": [
+    "MVP",
+    "Ammar"
+  ],
+  "author": "ammarRBK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ammarRBK/rbk3-mvp/issues"
+  },
+  "homepage": "https://github.com/ammarRBK/rbk3-mvp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5",
+    "mongoose": "^4.5.8",
+    "morgan": "^1.8.2"
+  },
+  "devDependencies": {
+    "angular-translate": "^2.15.2"
+  }
+}
